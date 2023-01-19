@@ -1,0 +1,76 @@
+This tutorial includes this text file and demos A-F. Please move a.dem, b.dem, c.dem, d.dem, e.dem, f.dem into the id1 folder. To play the demos, open Quake and in the console type: playdemo "demo_name"  so as an example, to play demo A, you would type: playdemo a
+
+
+The basics:
+
+Demo A)
+
+The first step is understanding that the hook is a slingshot. If you treat it as just a method to get to different elevations than you are not using it properly.  This is an exmaple of using it simply to get to a different elevation or to use it to pull you. 
+
+
+Demo B)
+
+To use it as a slingshot you need to get used to letting go of the hook before it pulls you all the way up the location it is locked to. Once you have this down you will notice that if you let go before it pulls you all the way to the location, you keep flying and will miss your target. Up until this point our use of the hook was assuming that you do not press the movement keys on the keyboard while you are using the hook. 
+
+
+Demo C)
+
+In order to extend the usefullness of the hook, we will now learn to use the hook and the movement keys at the same time. 
+
+So in the slingshot motion, to stop yourself simply press the key you have assigned  to move backwards.
+
+In addition, everytime you throw the hook you should press the jump key at the same  time you click the mouse to throw the hook and you should release the jump key when  you let go of the fire key, which will let go of the hook and start the slingshot  motion.
+
+Typically you should always have the forward key pressed when you shoot the hook to  grab a target to start the slingshot motion.
+
+The next keyboard use you need in conjuction with the grappling hook is the use of  strafe left/strafe right, you're other movement keys. These keys are used to control  your movement in the air as you are being slingshotted. The great thing about the  grappling hook is the ability to move in their air the way you wish  yourself to move. Therefore, you can fly left or right in the direction you seek. These keys are  pressed at the momement you release the hook to start the slingshot motion. If you do not press them at the correct time, the direction you want to go will not be reached.  You will continue to hold the strafe left/right direction keys until you reach your destination. Make sure you face, with the mouse, the direction you want to go.
+
+Demo D)
+
+Once you have this down you need to learn how to use the hook as a slingshot off of  walls that you would not normally think of. Do not always use the roof as your  slingshot point. Now that you can turn in the air, you can hook in one direction and  move youself to the other direction. So I can hook the roof and end up going left or right. Or I can hook the right wall and move to the left wall or vice versa. 
+
+You can use the slingshot off of walls to propel yourself to faster speeds when you need to go long distances. The hook is a method of moving faster. So if I hook the wall, I need to strafe in the opposite direction off the wall to get myself going  striaght again. This is a KEY thing to learn to speed yourself up. Bascially, you  should be doing this a majority of the time.
+
+
+More advanced stuff:
+
+Demo E)
+
+1) Weapon Switching: You will need to learn how to switch between the hook and your  weapon of choice very quickly when using the grappling hook as part of your game.
+
+2) Backing up before you hook. Sometimes you will need to back up before you throw hook  to position yourself better for a slingshot. 
+
+3) You do not always need to be facing forward when you hook. You can use the slingshot  to moveyouself backward when facing forward. Do this by hooking somewhere and  pressing both strafe keys and the backward key at the same time (after you release  the hook to start the slingshot motion)
+
+4) Backwards slingshot hooking. This really has no practical use, but it is cool. This  is achieved by hooking to a spot and then just as you're momentum carries you hook  again really quick. You do not need to press any keys.
+
+5) Do not be affraid to stop your momentum with the backwards key in fight sequences and in cases where you need to slow down to make in through doorways and such.
+
+Do not make your hooking predicatable in fight sequences. Strafe, movebackwards,  hook in different places than you intend to go. If you hook in predicatable places  people will shoot rockets where you hook and they will hit you. 
+
+6) Momentum: Once you start moving around faster with the hook a key part of moving fast with it is understanding that the slingshot motion gives you momentum, and it  speeds you up. An intergal part of being good at CTF is using the speed that the  hook as given us in the slingshot motion and continuing that speed.  To do this you  need to jump continuously after every slingshot motion. This is called bunnyhopping. You should also try to use the left/right keys to direct you while you are hopping.
+
+7) You can hook the floor to create momentum to start bunnyhoping. To do this you jump in the air then hook the ground and slingshot. This is shown in the demo.
+
+Demo F)
+
+Learning to see the walls around you and use them to move qucikly. 
+
+
+
+Demos included in this package:
+
+a.dem - tutorial on the map e1m3
+b.dem - tutorial on the map e1m1
+c.dem - tutorial on the map e4m8
+d.dem - tutorial on the map e4m3
+e.dem - tutorial on the map e4m8
+f.dem - tutorial on the map e2m5
+
+Extra demos for practicing:
+
+e1.dem - hooking on the map e2m2
+e2.dem - hooking on the map e4m3
+e3.dem - hooking on the map e3m6
+
+
